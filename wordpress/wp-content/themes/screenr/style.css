@@ -2059,14 +2059,14 @@ input[type="radio"], input[type="checkbox"] {
 .btn-theme-primary-outline {
 	background-color: transparent;
 	background-image: none;
-	border-color: #67BD33;
-	color: #67BD33;
+	border-color: #e86240;
+	color: #e86240;
 }
 
 .btn-theme-primary-outline:hover {
 	color: #FFF;
-	background-color: #67BD33;
-	border-color: #67BD33;
+	background-color: #e86240;
+	border-color: #e86240;
 }
 
 .slide_content .btn {
